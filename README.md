@@ -73,5 +73,5 @@ The analysis pipeline utilizes tools like HISAT2 for reads alignment, HTcount fo
 Analysis scripts can be found in the respective subdirectory, with further explanations provided in the [detailed report](Jude_task1_corrected.pdf).
 
 ## Conclusion
-This analysis underscores the importance of quality control measures and the use of alignment algorithms such as HISAT2 and BOWTIE2. It emphasizes the significance of normalization techniques for accurate gene expression analysis, including the manual calculation of RPKM using Chd1. Through detailed analyses and visualizations, the study identifies statistically significant differentially expressed genes between conditions and explores potential pathways and biological processes associated with these genes.
+This analysis underscores the importance of quality control measures and the use of alignment algorithms such as HISAT2 and BOWTIE2. It emphasizes the significance of normalization techniques for accurate gene expression analysis, including the manual calculation of RPKM using Chd1 as an example where normalization was done based on gene length and read depth. Through detailed analyses and visualizations, the study identifies statistically significant differentially expressed genes between conditions and explores potential pathways and biological processes associated with these genes.
 
